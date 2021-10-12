@@ -1,3 +1,4 @@
+[Anand-U-converted (1).pdf](https://github.com/anandpawar0508/Demo-Syllabus/files/7326915/Anand-U-converted.1.pdf)
 # Demo-Syllabus
 1. What is Git and Gitlab?
 1.1 History of Git
@@ -36,3 +37,33 @@
 8.3 Force Push
 8.4 Commit Descriptions
 8.5 Brain Overload
+
+    GO Syllbus
+    
+    
+
+Go - Home
+Go - Overview
+Go - Environment Setup
+Go - Program Structure
+Go - Basic Syntax
+Go - Data Types
+Go - Variables
+Go - Constants
+Go - Operators
+Go - Decision Making
+Go - Loops
+Go - Functions
+Go - Scope Rules
+Go - Strings
+Go - Arrays
+Go - Pointers
+Go - Structures
+Go - Slice
+Go - Range
+Go - Maps
+Go - Recursion
+Go - Type Casting
+Go - Interfaces
+Go - Error Handling
+
